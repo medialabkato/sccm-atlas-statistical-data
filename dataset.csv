@@ -1201,3 +1201,23 @@ living_cost_prod,city,Warsaw,2019,monthly_pass,Monthly pass (regular price),25.6
 living_cost,city,Warsaw,2019,appartm_rent_one,Apartment rent (1 bedroom) in city centre,556.02,Euro,Numbeo,https://www.numbeo.com/,Extracted: 2019-01-11;
 living_cost,city,Warsaw,2019,appartm_price_m11,Price per square meter to buy apartment in city centre,2752.39,Euro,Numbeo,https://www.numbeo.com/,Extracted: 2019-01-11;
 living_cost,city,Warsaw,2019,salary,Average monthly net salary (after tax),942.2,Euro,Numbeo,https://www.numbeo.com/,Extracted: 2019-01-11;
+iving_cost,city,Amsterdam,2019,meal_inexp,"Meal, inexpensive restaurant",15,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Athens,2019,meal_inexp,"Meal, inexpensive restaurant",10,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,London,2019,meal_inexp,"Meal, inexpensive restaurant",17.23,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Belgrade,2019,meal_inexp,"Meal, inexpensive restaurant",5.06,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Berlin,2019,meal_inexp,"Meal, inexpensive restaurant",8.5,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Bratislava,2019,meal_inexp,"Meal, inexpensive restaurant",6,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Budapest,2019,meal_inexp,"Meal, inexpensive restaurant",5.66,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Katowice,2019,meal_inexp,"Meal, inexpensive restaurant",4.2,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Prague,2019,meal_inexp,"Meal, inexpensive restaurant",5.45,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Warsaw,2019,meal_inexp,"Meal, inexpensive restaurant",5.83,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=1&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Amsterdam,2019,cinema_ticket,"Cinema ticket, international release",12,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Athens,2019,cinema_ticket,"Cinema ticket, international release",8,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,London,2019,cinema_ticket,"Cinema ticket, international release",14.93,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Belgrade,2019,cinema_ticket,"Cinema ticket, international release",4.22,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Berlin,2019,cinema_ticket,"Cinema ticket, international release",11,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Bratislava,2019,cinema_ticket,"Cinema ticket, international release",7,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Budapest,2019,cinema_ticket,"Cinema ticket, international release",5.66,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Katowice,2019,cinema_ticket,"Cinema ticket, international release",8.84,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Prague,2019,cinema_ticket,"Cinema ticket, international release",7.01,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
+living_cost,city,Warsaw,2019,cinema_ticket,"Cinema ticket, international release",7,Euro,Numbeo,https://www.numbeo.com/cost-of-living/prices_by_city.jsp?itemId=44&displayCurrency=EUR,Extracted: 2019-01-24
